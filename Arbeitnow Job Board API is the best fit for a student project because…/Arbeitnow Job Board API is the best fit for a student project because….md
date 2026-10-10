@@ -1,0 +1,2 @@
+**Arbeitnow Job Board API** is the best fit for a student project because its current free API requires **no API key** and provides a consistent job format. Its free API is primarily focused on Europe, with a separate UK endpoint. [arbeitnow.com](https://www.arbeitnow.com/blog/job-board-api)  
+For remote-job-focused projects, **Remotive Public API** is another option, but its public data is delayed by 24 hours and its terms require attribution/link-back  
